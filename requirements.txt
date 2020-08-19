@@ -1,0 +1,19 @@
+-e git://github.com/ingolemo/python-lenses.git#egg=python-lenses
+attrs
+boltons
+glom
+jsonpath_ng
+jsonpath-rw-ext
+jsonpath2
+jsonpath
+mitmproxy
+pstar
+requests
+toolz
+pyjq
+peewee
+sqlalchemy
+# test
+ipython
+ipdb
+
